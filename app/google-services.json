@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "775443239682",
+    "firebase_url": "https://fir-crud-b1799.firebaseio.com",
+    "project_id": "fir-crud-b1799",
+    "storage_bucket": "fir-crud-b1799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775443239682:android:c3c1a3f028638796",
+        "android_client_info": {
+          "package_name": "com.daninpr.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775443239682-jdgjoloifg3qmks606h8airqlf6e02e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daninpr.firebase",
+            "certificate_hash": "bc79d4abf99c542637b74a585ecf40efd83d006a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0AwX-4Es7fvx2yuwsfS2IzypTKq5c3FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775443239682-1mbqu78j5kpk9s9hthlb6ms4c8ovboui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
